@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Nebiyu Dawit
 
 🌟 About Me
 
@@ -26,7 +26,7 @@ RESTful API design and GraphQL
 
 Email: nebadave000@gmail.com
 
-LinkedIn: Nebiyu Dawit
+
 <!--
 **Acbia/Acbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
